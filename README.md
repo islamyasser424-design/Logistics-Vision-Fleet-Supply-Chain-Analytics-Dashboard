@@ -7,7 +7,13 @@ This interactive workspace connects operational data and transport activities to
 
 ## 📂 Repository Files
 - 📊 **Power BI Dashboard:** [Download Final.pbix](Final.pbix) - Access the full interactive model, relationships, and DAX calculations.
-- 🖼️ **Dashboard Previews:** High-resolution screenshots of all interactive pages are embedded below.
+- 🖼️ **Dashboard Previews:** High-resolution screenshots of the data model and all interactive pages are embedded below.
+
+---
+
+## 🗄️ Data Model Architecture
+A robust relational schema (Star Schema) designed for optimal performance, efficient filtering, and advanced DAX calculations.
+![Data Model](DATA%20MODEL.png)
 
 ---
 
