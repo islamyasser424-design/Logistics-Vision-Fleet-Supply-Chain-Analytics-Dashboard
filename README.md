@@ -1,4 +1,4 @@
-# 🚚 Logistics Vision Dashboard
+# 🚚 Logistics Vision - Logistics Operations Dashboard
 
 A comprehensive Business Intelligence project built with **Power BI** to evaluate logistics operations, fleet performance, financial metrics, and route efficiency.
 
