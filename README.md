@@ -38,11 +38,11 @@ Detailed breakdown of maintenance costs, fuel expenses, and profit margins.
 
 ### 👨‍✈️ Driver Performance
 Insights into driver efficiency, MPG trends, and on-time performance.
-![Driver Performance](Driver%2520Performance.png)
+![Driver Performance](Driver%20Performance.png)
 
 ### 🚛 Vehicle Performance
 Fleet status, utilization rates, and detailed truck maintenance tracking.
-![Vehicle Performance](Vehicle%2520Performance.png)
+![Vehicle Performance](Vehicle%20Performance.png)
 
 ### 🛡️ Safety
 Incident tracking, cost of damages, and preventability analysis.
