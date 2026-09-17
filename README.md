@@ -7,6 +7,7 @@ This interactive workspace connects operational data and transport activities to
 
 ## 📂 Repository Files
 - 📊 **Power BI Dashboard:** [Download Final.pbix](Final.pbix) - Access the full interactive model, relationships, and DAX calculations.
+- 📑 **Presentation Slides:** [Logistics_Intelligence_Presentation (3).pptx](Logistics_Intelligence_Presentation%20(3).pptx) - Explore the project presentation and summary deck.
 - 🖼️ **Dashboard Previews:** High-resolution screenshots of the data model and all interactive pages are embedded below.
 
 ---
@@ -37,11 +38,11 @@ Detailed breakdown of maintenance costs, fuel expenses, and profit margins.
 
 ### 👨‍✈️ Driver Performance
 Insights into driver efficiency, MPG trends, and on-time performance.
-![Driver Performance](Driver%20Performance.png)
+![Driver Performance](Driver%2520Performance.png)
 
 ### 🚛 Vehicle Performance
 Fleet status, utilization rates, and detailed truck maintenance tracking.
-![Vehicle Performance](Vehicle%20Performance.png)
+![Vehicle Performance](Vehicle%2520Performance.png)
 
 ### 🛡️ Safety
 Incident tracking, cost of damages, and preventability analysis.
