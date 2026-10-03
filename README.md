@@ -1,5 +1,12 @@
 # 🚚 Logistics Vision - Logistics Operations Dashboard
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Advanced DAX](https://img.shields.io/badge/DAX-What--If_Analytics-blue?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-Fleet_%26_Telematics-darkred?style=for-the-badge)]()
+[![Star Schema](https://img.shields.io/badge/Data_Model-Enterprise_Star_Schema-8b5cf6?style=for-the-badge)]()
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
+
+
 A comprehensive Business Intelligence project built with **Power BI** to evaluate logistics operations, fleet performance, financial metrics, and route efficiency.
 
 ## 📊 Project Overview
@@ -69,3 +76,19 @@ Geospatial distribution of revenue, active drivers, and facility locations.
 Dynamic scenario analysis for freight rate adjustments and fuel price fluctuations.
 ![WHAT IF](WHAT%20IF.png)
 ![WHAT IF 2](WHAT%20IF%202.png)
+---
+
+## 👤 Author & Connect
+
+**Islam Yasser**  
+*Data Analyst & Business Intelligence Specialist*
+
+* 🌐 **Portfolio Website:** [islamyasser424-design.github.io/portfolio-](https://islamyasser424-design.github.io/portfolio-/)
+* 💼 **LinkedIn Profile:** [linkedin.com/in/islam-yasser-55048b378](https://www.linkedin.com/in/islam-yasser-55048b378/)
+* 🐙 **GitHub Profile:** [@islamyasser424-design](https://github.com/islamyasser424-design)
+* ✉️ **Email:** [islamyasser424@gmail.com](mailto:islamyasser424@gmail.com)
+
+---
+<p align="center">
+  <sub>Part of the Business Intelligence & Enterprise Analytics Portfolio. Engineered with precision and industry-standard data modeling.</sub>
+</p>
