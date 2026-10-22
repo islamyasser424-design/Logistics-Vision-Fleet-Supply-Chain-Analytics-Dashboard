@@ -1,0 +1,13 @@
+# Operating System Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Office & PowerPoint Temporary Files
+~$*
+*.tmp
+
+# Visual Studio Code / IDE
+.vscode/
+.idea/
